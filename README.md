@@ -10,3 +10,5 @@ Welcome to the Audit Reports Repository! This repository contains audit reports 
    - Audit Report: [PuppyRaffle_NFT_audit.pdf](reports/PuppyRaffle_NFT_audit.pdf)
 3. [T-Swap](https://github.com/Cyfrin/5-t-swap-audit)
    - Audit Report: [Tswap-Audit-Report.pdf](reports/Tswap-Audit-Report.pdf)
+4. [ThunderLoan](https://github.com/Cyfrin/6-thunder-loan-audit)
+   - Audit Report: [ThunderLoan_Audit_Report.pdf](reports/Thunderloan_Audit_report.pdf)
