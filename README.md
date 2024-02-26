@@ -1,6 +1,12 @@
 # Audit Reports Repository
 
-Welcome to the Audit Reports Repository! This repository contains audit reports for various codebases that have been audited. Below are the URLs of the codebases that have been audited along with their corresponding audit reports.
+Hey there! 🕵️‍♂️
+Welcome to my Audits Repository! 
+This is my auditing experience so far, Below are the codebases and my findings.💻💎
+My Goal is to keep auditing, keep expanding this repo, and maybe even discover a few lines of code that tell jokes.
+Who knows, maybe we'll find some bits and bytes of humor along the way!😄🔍
+
+
 
 ## Audited Codebases:
 
