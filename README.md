@@ -20,3 +20,7 @@ Who knows, maybe we'll find some bits and bytes of humor along the way!😄🔍
    - Audit Report: [ThunderLoan_Audit.pdf](reports/Thunderloan_Audit.pdf)
 5. [Boss-Bridge](https://www.codehawks.com/contests/clomptuvr0001ie09bzfp4nqw)
    - Audit Report: [Boss_Bridge_Audit.pdf](reports/Boss_Bridge_Audit.pdf)
+6. [Ethereal-NFTfi](https://github.com/srihar5ha/Ethereal_NFTfi)
+   - Audit report: [Ethereal_Audit.pdf](reports/Ethereal_Audit.pdf)
+7. [OneShot Rapper](https://github.com/Cyfrin/2024-02-one-shot)
+   - Audit report: [OneShot_Audit.pdf](reports/OneShot_audit.pdf)
