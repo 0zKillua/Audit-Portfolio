@@ -18,6 +18,6 @@ Who knows, maybe we'll find some bits and bytes of humor along the way!😄🔍
 | Codehawks   | [OneShot Rapper](https://github.com/Cyfrin/2024-02-one-shot) | [OneShot_Audit.pdf](reports/OneShot_Audit.pdf) |
 | Private Audit @Guardian Audits | [Arg](https://github.com/GuardianAudits/Arg-PoCs) |[Arg_Audit.pdf](reports/Arg_Audit.pdf) |
 | Sherlock | [vVv Vesting Staking](https://github.com/sherlock-audit/2024-03-vvv-vesting-staking) | [vvvAudit.pdf](reports/vvv_Audit.pdf) |
-|Cantina | [Goat.Tech](https://cantina.xyz/competitions/f214cf86-cc80-40c0-a70b-e9bb25d7ac80)| [GoatAudit.pdf](reports/GoatAudit.pdf) |
+|Cantina | [Goat.Tech](https://cantina.xyz/competitions/f214cf86-cc80-40c0-a70b-e9bb25d7ac80)| [GoatTechAudit.pdf](reports/GoatTechAudit.pdf) |
 | sherlock | [Debita Finance V3](https://github.com/sherlock-audit/2024-11-debita-finance-v3) |[DebitaAudit.md](reports/DebitaAudit.md)|
 
