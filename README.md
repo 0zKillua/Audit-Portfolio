@@ -1,10 +1,12 @@
 # Audit Repository
 
 Hey there! 🕵️‍♂️
-Welcome to my Audits Repository! 
-This is my auditing experience so far, Below are the codebases and my findings.💻💎
-My Goal is to keep auditing, keep expanding this repo, and maybe even discover a few lines of code that tells jokes.
-Who knows, maybe we'll find some bits and bytes of humor along the way!😄🔍
+<br>
+This is my auditing experience so far, Below are the codebases and my findings.
+<br>
+My Goal is to keep auditing, keep expanding this repository.
+<br>
+<br>
 <br>
 
 | Platform | Audited Codebase | Audit Report |
