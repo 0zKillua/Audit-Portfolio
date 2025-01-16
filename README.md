@@ -25,4 +25,5 @@ Who knows, maybe we'll find some bits and bytes of humor along the way!😄🔍
 |Cantina | [Goat.Tech](https://cantina.xyz/competitions/f214cf86-cc80-40c0-a70b-e9bb25d7ac80)| [GoatTechAudit.pdf](reports/GoatTechAudit.pdf) |
 |C4 |[Size Credit](https://github.com/code-423n4/2024-06-size/)|[SizeAudit.md](reports/SizeAudit.md)|
 | sherlock | [Debita Finance V3](https://github.com/sherlock-audit/2024-11-debita-finance-v3) |[DebitaAudit.md](reports/DebitaAudit.md)|
+| private |[Fortis-Manager](https://github.com/shafu0x/fortis)|[FortisManager.md](reports/FortisManagerAudit.md)
 
