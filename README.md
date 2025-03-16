@@ -28,6 +28,6 @@ My Goal is to keep auditing, keep expanding this repository.
 |C4 |[Size Credit](https://github.com/code-423n4/2024-06-size/)|[SizeAudit.md](reports/SizeAudit.md)|
 | sherlock | [Debita Finance V3](https://github.com/sherlock-audit/2024-11-debita-finance-v3) |[DebitaAudit.md](reports/DebitaAudit.md)|
 | private |[Fortis-Manager](https://github.com/shafu0x/fortis)|[FortisManager.md](reports/FortisManagerAudit.md)|
-|C4 |[Iq-Ai](https://github.com/code-423n4/2025-01-iq-ai)|[IqaiAudit.md](reports/IqaiAudit.md)|
-|CodeHawks | [RAAC-CoreContracts](https://codehawks.cyfrin.io/c/2025-02-raac)|[RAACAudit.md](reports/RAACAudit.md)|
+|C4 |[Iq-Ai](https://github.com/code-423n4/2025-01-iq-ai)|[IqaiAudit.md](reports/IqAudit.md)|
+|CodeHawks | [RAAC-CoreContracts](https://codehawks.cyfrin.io/c/2025-02-raac)|[RAACAudit.md](reports/404.md)|
 
