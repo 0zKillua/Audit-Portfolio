@@ -13,3 +13,4 @@ Hey there! 🕵️‍♂️
 | [Fortis-Manager](https://github.com/0z/fortis)                               | Private / Lending       | [1H, 2M](reports/FortisManagerAudit.md)         |
 | [Iq-Ai](https://github.com/code-423n4/2025-01-iq-ai)                         | C4 / Token Launchpad    | [1H, 1L](reports/IqAudit.md)                    |
 | [RAAC-CoreContracts](https://codehawks.cyfrin.io/c/2025-02-raac)            | CodeHawks / DeFi        | [12H, 12M, 7L](reports/RAACAudit.md)             |
+| [BiFY-NFT](https://x.com/BIFYOfficial/status/1945508290906956018)            | Private Audit / NFT        | [Private]()             |
