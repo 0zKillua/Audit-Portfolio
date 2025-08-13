@@ -14,4 +14,4 @@ Hey there! 🕵️‍♂️
 | [Iq-Ai](https://github.com/code-423n4/2025-01-iq-ai)                         | C4 / Token Launchpad    | [1H, 1L](reports/IqAudit.md)                    |
 | [RAAC-CoreContracts](https://codehawks.cyfrin.io/c/2025-02-raac)            | CodeHawks / DeFi        | [12H, 12M, 7L](reports/RAACAudit.md)             |
 | [BiFY-NFT](https://x.com/BIFYOfficial/status/1945508290906956018)            | Private Audit / NFT        | [Private]()             |
-| [Bluefin-Perps](https://hackenproof.com/audit-programs/bluefin-perp-audit-contest)            | HackenProof / Perps        | [..Soon]()             |
+| [Bluefin-Perps](https://hackenproof.com/audit-programs/bluefin-perp-audit-contest)            | HackenProof / Perps        | [1L]()             |
