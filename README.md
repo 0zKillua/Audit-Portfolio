@@ -1,5 +1,5 @@
 ###  Audit Portfolio  
-**Total Findings > `[20H | 20M]`**
+**Total Findings > `[25H | 25M]`**
 
 | Protocol Name                                                                 | Platform/Type           |  Findings     |
 |-------------------------------------------------------------------------------|-------------------------|--------------------------------------------------------------|
@@ -11,13 +11,14 @@
 | [Iq-Ai](https://github.com/code-423n4/2025-01-iq-ai)                         | C4 / Token Launchpad    |  1H, 1L       |
 | [RAAC-CoreContracts](https://codehawks.cyfrin.io/c/2025-02-raac)            | CodeHawks / DeFi        |  12H, 12M, 7L |
 | [BiFY-NFT](https://x.com/BIFYOfficial/status/1945508290906956018)            | Private Audit @ Radcipher | Private                                         |
-|Plume networks | Immunefi|1Crit,1L|
+|Plume networks | Immunefi|1H,1L|
 ---
 
 ### Move Ecosystem   
 
 | Chain               | Audit/BB        | Platform            | Findings   |
 |----------------------|-----------------|---------------------|------------|
-| SUI- [Bluefin-Perps](https://hackenproof.com/audit-programs/bluefin-perp-audit-contest) | Audit | HackenProof | 1L |
-| SUI- Haedal (liq staking)      | Bug Bounty      | Hackenproof                  | 1M         |
-|SUI- Dexlyn(CLMM)|Audit|Hackenproof|..TBD|
+|SUI- Haedal (liq staking)      | Bug Bounty      | Hackenproof                  | 1M         |
+|SUI- [Bluefin-Perps](https://hackenproof.com/audit-programs/bluefin-perp-audit-contest) | Audit | HackenProof | 1M |
+|SUI- Dexlyn(CLMM)|Audit|Hackenproof|..Soon|
+|SUI -Turbo Fin | BB | Hackenproof| ..Soon|
