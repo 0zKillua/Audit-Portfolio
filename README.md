@@ -22,3 +22,4 @@
 |SUI- [Bluefin-Perps](https://hackenproof.com/audit-programs/bluefin-perp-audit-contest) | Audit | HackenProof | 1M |
 |SUI- Dexlyn(CLMM)|Audit|Hackenproof|..Soon|
 |SUI -Turbo Fin | BB | Hackenproof| ..Soon|
+|SUI-Ember vaults| BB | Hackenproof|..Soon|
